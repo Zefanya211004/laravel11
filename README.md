@@ -64,3 +64,22 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Progress
+
+# 24 September 2024
+UI:
+![image](https://github.com/user-attachments/assets/d47dfa2d-f5cf-497d-b386-94ca279fba3d)
+![image](https://github.com/user-attachments/assets/f2859436-e531-4ed3-ae21-48574ca6c08f)
+![image](https://github.com/user-attachments/assets/57ec18f2-6519-4aac-9f70-91b0dfc7ff11)
+![image](https://github.com/user-attachments/assets/245b56bf-ab65-45fe-8ae4-85a2fb3ef436)
+![image](https://github.com/user-attachments/assets/5dec21e5-c1c4-434f-83dd-6d27b8d988ac)
+
+In my last progress work, i've already created all 4 section, but now i've improved the code by implenting blade for the navigation bar, header, and body. I've also added the content of the article also with its name. I've implemented the article with sqlite, so the data of the article is in a database rather than in an array
+
+Database:
+![image](https://github.com/user-attachments/assets/9270a9c7-f33b-4319-8348-f73548480509)
+
+
+
+
